@@ -1,0 +1,36 @@
+body {
+	font-family: serif;
+	background-image: url(../images/psychic.jpg);
+	background-repeat: no-repeat;
+	background-size: 100%;	
+	color: #F5F5DC;
+	text-shadow: -1px 0 black, 0 1px black, 1px 0 black, 0 -1px black;
+	font-weight: bold;
+	text-align: center;
+}
+
+#game {
+	background-color: rgba(0, 0, 0, .5);
+	width: 100%;
+	padding: 20px 0 20px 0;
+}
+
+h1 {
+	font-size: 3.8em;
+	padding: 20px 0 40px 0;
+}
+
+h2 {
+	font-size: 26px;
+	color: #AB82FF;
+	text-shadow: -1px 0 #5D478B, 0 1px #5D478B, 1px 0 #5D478B, 0 -1px #5D478B;
+	text-align: center;
+	padding-bottom: 10px;
+}
+
+p {
+	font-size: 20px;
+	line-height: 2em;
+	text-align: left;
+	margin-left: 740px;
+}
